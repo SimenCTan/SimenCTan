@@ -2,8 +2,8 @@
 
 ### Hey friends!
 - 🔭 Call me Aren
-- 🌱 I’m currently learning .NET
-- 👯 I’m looking to collaborate on .NET MAUI
+- 🌱 I’m currently learning REACT
+- 👯 I’m looking to collaborate on LLM APP
 
 <!-- ![arencode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimenCTan&count_private=true&show_icons=true&theme=transparent) -->
 
