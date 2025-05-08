@@ -2,7 +2,7 @@
 
 ### Hey friends!
 - 🔭 Call me Aren
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on LLM APP
 
 <!-- ![arencode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimenCTan&count_private=true&show_icons=true&theme=transparent) -->
